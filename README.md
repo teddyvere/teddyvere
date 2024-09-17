@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **I think I'm pretty funny**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
