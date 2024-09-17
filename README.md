@@ -4,7 +4,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Teddy Archibald</h1>
 <h3 align="center">A passionate data engineer from Philadelphia</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 - 🔭 I’m currently working on [a celebrity stock market](https://github.com/QueueTTP/CapStone)
 
