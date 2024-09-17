@@ -16,9 +16,6 @@
 
 - 📫 How to reach me **teddyvere@gmail.com**
 
-- - 💬 My linkedIn
-
-
 - ⚡ Fun fact **I think I'm pretty funny**
 
 <p align="left">
